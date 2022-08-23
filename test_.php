@@ -1,0 +1,15 @@
+<option value="Team Update">Team Update</option>
+<option value="Airdrop/Snapshot">Airdrop/Snapshot</option>
+<option value="AMA">AMA</option>
+<option value="Partnership">Partnership</option>
+<option value="Other">Other</option>
+<option value="Whitepaper U">Whitepaper U</option>
+<option value="Branding">Branding</option>
+<option value="Meetup">Meetup</option>
+<option value="Conference">Conference</option>
+<option value="Exchange">Exchange</option>
+<option value="Release">Release</option>
+<option value="Integration">Integration</option>
+<option value="Staking/Farming">Staking/Farming</option>
+<option value="Roadmap Update">Roadmap Update</option>
+<option value="Tokenomics">Tokenomics</option>
